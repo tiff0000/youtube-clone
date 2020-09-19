@@ -38,8 +38,8 @@ export default function Header() {
         <AppsIcon className="header__icon" />
         <NotificationsIcon className="header__icon" />
         <Avatar
-          alt="Remy Sharp"
-          src="https://avatars2.githubusercontent.com/u/24712956?s=400&u=b71527e605ae1b748fc2d4157a842e57e427ad44&v=4"
+          alt="profile pic"
+          src="https://n.sinaimg.cn/sinacn/w640h640/20171214/1769-fypsqiz8668713.jpg"
         />
       </div>
     </div>
