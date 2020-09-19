@@ -43,3 +43,7 @@
   align-items: center;
   display: flex;
 }
+
+.header__icon {
+  margin-right: 8px;
+}
