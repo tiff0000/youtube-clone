@@ -13,59 +13,59 @@ export default function SearchPage() {
       </div>
       <hr />
       <ChannelRow
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
-        channel="Clever Programmer"
+        image="https://gabrielamueller.com/wp-content/uploads/2019/01/gabriela-mueller-artifitcial-intelligence-2000.jpg"
+        channel="Artificial Intelligence"
         verified
-        subs="659K"
+        subs="90k"
         noOfVideos={382}
-        description="You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding sskills to the ..."
+        description="Learn about artificial intelligence most recent news and technologies.  "
       />
 
       <hr />
       <VideoRow
         views="1.4M"
         subs="659K"
-        description="Do you want a FREE one"
-        timestamp="59 seconds ago"
-        channel="Clever Programmer"
-        title="Let's Build a YouTube Clone"
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
+        description="Self driving cars with AI technology"
+        timestamp="1 min ago"
+        channel="Artifical intelligence"
+        title="Self driving car: Deep learning at scale"
+        image="https://mitechnews.com/wp-content/uploads/2019/01/AICAV.jpg"
       />
       <VideoRow
         views="1.4M"
         subs="659K"
-        description="Do you want a FREE one"
+        description="Do you want to have car that drives by itself? here it comes"
         timestamp="59 seconds ago"
-        channel="Clever Programmer"
-        title="Let's Build a YouTube Clone"
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
+        channel="AI news"
+        title="Self-driving cards: a complete demo"
+        image="https://miro.medium.com/max/7982/1*TNMBmpOOgXxJ0ItGg-Vh6A.jpeg"
       />
       <VideoRow
         views="1.4M"
         subs="659K"
-        description="Do you want a FREE one"
+        description="Tesla cars that just came out. Newest model. "
         timestamp="59 seconds ago"
-        channel="Clever Programmer"
-        title="Let's Build a YouTube Clone"
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
+        channel="AI news"
+        title="new Tesla AI car XSL model 2020"
+        image="https://cleantechnica.com/files/2019/11/Tesla-Cybertruck-Reveal-Elon-Musk-KYLE-FIELD-CLEANTECHNICA.png"
       />
       <VideoRow
         views="1.4M"
         subs="659K"
-        description="Do you want a FREE one"
+        description="Do you want to get hands free? New experience of the future."
         timestamp="59 seconds ago"
-        channel="Clever Programmer"
-        title="Let's Build a YouTube Clone"
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
+        channel="New technology"
+        title="Self-driving experience"
+        image="https://cdn.mos.cms.futurecdn.net/SCCNZG4fzH9Y5rmPUi9UZ6.jpg"
       />
       <VideoRow
         views="1.4M"
         subs="659K"
-        description="Do you want a FREE one"
+        description="Automatic sensors that detect cars in front of you"
         timestamp="59 seconds ago"
-        channel="Clever Programmer"
-        title="Let's Build a YouTube Clone"
-        image="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.Jbm7P8PO0ABnbo4P0G8hdwHaE2%26pid%3DApi&f=1"
+        channel="Cars today"
+        title="Auto sensors cars"
+        image="https://www.teslarati.com/wp-content/uploads/2019/04/tesla-autonomy-day-1.jpg"
       />
     </div>
   );
