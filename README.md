@@ -5,9 +5,8 @@ Demo: https://react-56ed5.web.app/
 
 
 
-![indexPage](/indexPage.png)
+![indexPage](/images/indexPage.png)
 
 
 
-![searchPage](/searchPage.png)
-
+![searchPage](/images/searchPage.png)
